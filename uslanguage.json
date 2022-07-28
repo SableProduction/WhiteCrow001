@@ -1,0 +1,122 @@
+{
+    "-2073476428": {
+        "key": -2073476428, 
+        "value": "Please input"
+    }, 
+    "-2014222642": {
+        "key": -2014222642, 
+        "value": "Please input"
+    }, 
+    "-1925555007": {
+        "key": -1925555007, 
+        "value": "Barrel"
+    }, 
+    "-1762180362": {
+        "key": -1762180362, 
+        "value": "building_test_normalmap"
+    }, 
+    "-1565644734": {
+        "key": -1565644734, 
+        "value": "Building1_testimport"
+    }, 
+    "-1444695892": {
+        "key": -1444695892, 
+        "value": "Please input"
+    }, 
+    "-1385665718": {
+        "key": -1385665718, 
+        "value": "TreeC"
+    }, 
+    "-1355876234": {
+        "key": -1355876234, 
+        "value": "building test normalmap"
+    }, 
+    "-1260438182": {
+        "key": -1260438182, 
+        "value": "Please input"
+    }, 
+    "-1153409660": {
+        "key": -1153409660, 
+        "value": "Building1_test"
+    }, 
+    "-691511854": {
+        "key": -691511854, 
+        "value": "Barrel_A"
+    }, 
+    "-641657631": {
+        "key": -641657631, 
+        "value": "Please input"
+    }, 
+    "-614465639": {
+        "key": -614465639, 
+        "value": "Please input"
+    }, 
+    "-612386867": {
+        "key": -612386867, 
+        "value": "BarrelA_Destructible"
+    }, 
+    "-492863382": {
+        "key": -492863382, 
+        "value": "Please input"
+    }, 
+    "-415737499": {
+        "key": -415737499, 
+        "value": ""
+    }, 
+    "-327030943": {
+        "key": -327030943, 
+        "value": "Building1_test"
+    }, 
+    "-306466847": {
+        "key": -306466847, 
+        "value": "Barrel"
+    }, 
+    "176419187": {
+        "key": 176419187, 
+        "value": "Please input"
+    }, 
+    "200650053": {
+        "key": 200650053, 
+        "value": "Please input"
+    }, 
+    "341526881": {
+        "key": 341526881, 
+        "value": "Building1_test2"
+    }, 
+    "647853076": {
+        "key": 647853076, 
+        "value": "Please input"
+    }, 
+    "1017783806": {
+        "key": 1017783806, 
+        "value": "Please input"
+    }, 
+    "1231636459": {
+        "key": 1231636459, 
+        "value": "Barrel_testA"
+    }, 
+    "1707380015": {
+        "key": 1707380015, 
+        "value": "Please input"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "Faction 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "Neutral"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "Player 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "Neutral Hostile"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "Neutral Friendly"
+    }
+}

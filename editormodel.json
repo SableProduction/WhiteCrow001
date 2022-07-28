@@ -1,0 +1,192 @@
+{
+    "134242767": {
+        "describe": "test_describe", 
+        "essential_socket": {}, 
+        "key": 134242767, 
+        "model_id": 134242767, 
+        "name": "BarrelA_retest", 
+        "preview_icon": "UP1ModelPreview/134242767", 
+        "select_effect_scale": 1.0, 
+        "size": 1.0, 
+        "socket_info": {}, 
+        "uid": 134242767
+    }, 
+    "134250342": {
+        "describe": "test_describe", 
+        "essential_socket": {
+            "attack1": {
+                "__tuple__": true, 
+                "items": [
+                    "attack1", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "buff": {
+                "__tuple__": true, 
+                "items": [
+                    "buff", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "hit_point": {
+                "__tuple__": true, 
+                "items": [
+                    "hit_point", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "origin": {
+                "__tuple__": true, 
+                "items": [
+                    "origin", 
+                    "", 
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "sound": {
+                "__tuple__": true, 
+                "items": [
+                    "sound", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "top": {
+                "__tuple__": true, 
+                "items": [
+                    "top", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "ui_hp": {
+                "__tuple__": true, 
+                "items": [
+                    "ui_hp", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }
+        }, 
+        "key": 134250342, 
+        "model_id": 134250342, 
+        "name": "Tree01_C", 
+        "preview_icon": "UP1ModelPreview/134250342", 
+        "select_effect_scale": 1.0, 
+        "size": 1.0, 
+        "socket_info": {
+            "attack1": {
+                "__tuple__": true, 
+                "items": [
+                    "attack1", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "buff": {
+                "__tuple__": true, 
+                "items": [
+                    "buff", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "hit_point": {
+                "__tuple__": true, 
+                "items": [
+                    "hit_point", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "origin": {
+                "__tuple__": true, 
+                "items": [
+                    "origin", 
+                    "", 
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "sound": {
+                "__tuple__": true, 
+                "items": [
+                    "sound", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "top": {
+                "__tuple__": true, 
+                "items": [
+                    "top", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "ui_hp": {
+                "__tuple__": true, 
+                "items": [
+                    "ui_hp", 
+                    "", 
+                    0, 
+                    0, 
+                    0
+                ]
+            }
+        }, 
+        "uid": 134250342
+    }, 
+    "134255816": {
+        "describe": "test_describe", 
+        "essential_socket": {}, 
+        "key": 134255816, 
+        "model_id": 134255816, 
+        "name": "BarrelA", 
+        "preview_icon": "UP1ModelPreview/134255816", 
+        "select_effect_scale": 1.0, 
+        "size": 1.0, 
+        "socket_info": {}, 
+        "uid": 134255816
+    }, 
+    "134266723": {
+        "describe": "test_describe", 
+        "essential_socket": {}, 
+        "key": 134266723, 
+        "model_id": 134266723, 
+        "name": "BarrelA", 
+        "preview_icon": "UP1ModelPreview/134266723", 
+        "select_effect_scale": 1.0, 
+        "size": 1.0, 
+        "socket_info": {}, 
+        "uid": 134266723
+    }
+}

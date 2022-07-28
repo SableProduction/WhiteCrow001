@@ -1,0 +1,15 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {}, 
+    "name": "trigger", 
+    "sub_trigger": {
+        "0": {
+            "__tuple__": true, 
+            "items": [
+                1487040513, 
+                "base_trigger"
+            ]
+        }
+    }
+}

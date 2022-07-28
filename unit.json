@@ -1,0 +1,82 @@
+{
+    "unit": {
+        "1": {
+            "components": {
+                "ability": {}, 
+                "camp": {
+                    "role_id": 1
+                }, 
+                "drop_item": null, 
+                "movement": {
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -3, 
+                                1102172160
+                            ], 
+                            [
+                                0, 
+                                42949672
+                            ], 
+                            [
+                                8, 
+                                3224051712
+                            ]
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201328319, 
+            "name": "Viru", 
+            "type": 1, 
+            "unit_id": 1
+        }, 
+        "2": {
+            "components": {
+                "ability": {}, 
+                "camp": {
+                    "role_id": 1
+                }, 
+                "drop_item": null, 
+                "movement": {
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -2, 
+                                1884672000
+                            ], 
+                            [
+                                0, 
+                                42949672
+                            ], 
+                            [
+                                8, 
+                                96559104
+                            ]
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201348060, 
+            "name": "Cera", 
+            "type": 1, 
+            "unit_id": 2
+        }
+    }
+}

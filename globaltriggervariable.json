@@ -1,0 +1,13 @@
+{
+    "local_variable": {}, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "INTEGER": {}, 
+        "UNIT_ENTITY": {}, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}, 
+    "variable_remark": {}, 
+    "variable_type_dict": {}
+}
