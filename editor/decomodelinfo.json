@@ -33,5 +33,397 @@
    5, 
    "House01_A"
   ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   6, 
+   "HouseC"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   7, 
+   "HouseD"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   8, 
+   "HouseE"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10, 
+   "House2B"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   19, 
+   "Tree1020"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   23, 
+   "Tree1018"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   70, 
+   "Sculpture1069"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   84, 
+   "Sculpture1067"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   86, 
+   "Sculpture1067"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   87, 
+   "Sculpture1067"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   88, 
+   "Sculpture1067"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   89, 
+   "Sculpture1067"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   90, 
+   "Sculpture1067"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   93, 
+   "Sculpture1067"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   94, 
+   "Sculpture1067"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   98, 
+   "Sculpture1066"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   105, 
+   "Sculpture1065"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   117, 
+   "Sculpture1065"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   126, 
+   "Sculpture1062"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   127, 
+   "Sculpture1062"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   128, 
+   "Sculpture1062"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   143, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   191, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   192, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   193, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   194, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   217, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   218, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   240, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   247, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   248, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   249, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   250, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   251, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   253, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   258, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   259, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   260, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   261, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   262, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   263, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   264, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   265, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   266, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   267, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   268, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   269, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   270, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   271, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   272, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   273, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   277, 
+   "tree_p3"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   278, 
+   "tree_p3"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   279, 
+   "tree_p3"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   281, 
+   "tree_p3"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   284, 
+   "tree_p3"
+  ]
  }
 ]

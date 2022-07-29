@@ -1,0 +1,72 @@
+{
+    "_custom_": true, 
+    "_ref_": 134265288, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -5, 
+                5
+            ], 
+            [
+                -5, 
+                -5
+            ], 
+            [
+                5, 
+                -5
+            ], 
+            [
+                5, 
+                5
+            ]
+        ]
+    }, 
+    "collision_height": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -2, 
+                -2
+            ], 
+            [
+                1, 
+                1
+            ], 
+            0
+        ]
+    }, 
+    "description": 527111058, 
+    "effect_list": {
+        "__tuple__": true, 
+        "items": [
+            [
+                100373, 
+                [
+                    0, 
+                    0, 
+                    0
+                ], 
+                1
+            ]
+        ]
+    }, 
+    "icon": 100000, 
+    "key": 134265288, 
+    "kv": {}, 
+    "model": 100556, 
+    "name": -1403003798, 
+    "receive_decal": false, 
+    "scale": 1.0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134265288", 
+    "use_physics": false
+}

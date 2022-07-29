@@ -1,3 +1,43 @@
 {
-    "unit": {}
+    "unit": {
+        "1": {
+            "components": {
+                "ability": {}, 
+                "camp": {
+                    "role_id": 1
+                }, 
+                "drop_item": null, 
+                "movement": {
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -53, 
+                                3767844864
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -42, 
+                                1501102080
+                            ]
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201328319, 
+            "name": "Viru", 
+            "type": 1, 
+            "unit_id": 1
+        }
+    }
 }
