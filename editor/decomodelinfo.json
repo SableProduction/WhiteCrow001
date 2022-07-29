@@ -1,0 +1,37 @@
+[
+ {
+  "__tuple__": true, 
+  "items": [
+   1, 
+   "Building2"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   2, 
+   "barrel1A"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   3, 
+   "barrel1A"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   4, 
+   "barrel1A"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   5, 
+   "House01_A"
+  ]
+ }
+]

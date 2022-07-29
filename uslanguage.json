@@ -1,0 +1,46 @@
+{
+    "-1624822304": {
+        "key": -1624822304, 
+        "value": "House01_A"
+    }, 
+    "-321188368": {
+        "key": -321188368, 
+        "value": "barrel1A"
+    }, 
+    "-18466292": {
+        "key": -18466292, 
+        "value": "Please input"
+    }, 
+    "691710747": {
+        "key": 691710747, 
+        "value": "Building2"
+    }, 
+    "1014478407": {
+        "key": 1014478407, 
+        "value": "Please input"
+    }, 
+    "1601793748": {
+        "key": 1601793748, 
+        "value": "Please input"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "Faction 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "Neutral"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "Player 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "Neutral Hostile"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "Neutral Friendly"
+    }
+}

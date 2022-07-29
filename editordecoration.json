@@ -1,0 +1,218 @@
+{
+    "134228236": {
+        "_custom_": true, 
+        "_ref_": 134228236, 
+        "collision_box": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    -5, 
+                    5
+                ], 
+                [
+                    -5, 
+                    -5
+                ], 
+                [
+                    5, 
+                    -5
+                ], 
+                [
+                    5, 
+                    5
+                ]
+            ]
+        }, 
+        "collision_height": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "collision_points": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    -2, 
+                    -2
+                ], 
+                [
+                    1, 
+                    1
+                ], 
+                0
+            ]
+        }, 
+        "description": -18466292, 
+        "effect_list": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    100373, 
+                    [
+                        0, 
+                        0, 
+                        0
+                    ], 
+                    1
+                ]
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 134228236, 
+        "kv": {}, 
+        "model": 134276501, 
+        "name": -1624822304, 
+        "receive_decal": false, 
+        "scale": 1.0, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "uid": "134228236", 
+        "use_physics": false
+    }, 
+    "134238388": {
+        "_custom_": true, 
+        "_ref_": 134238388, 
+        "collision_box": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    -5, 
+                    5
+                ], 
+                [
+                    -5, 
+                    -5
+                ], 
+                [
+                    5, 
+                    -5
+                ], 
+                [
+                    5, 
+                    5
+                ]
+            ]
+        }, 
+        "collision_height": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "collision_points": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    -2, 
+                    -2
+                ], 
+                [
+                    1, 
+                    1
+                ], 
+                0
+            ]
+        }, 
+        "description": 1601793748, 
+        "effect_list": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    100373, 
+                    [
+                        0, 
+                        0, 
+                        0
+                    ], 
+                    1
+                ]
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 134238388, 
+        "kv": {}, 
+        "model": 134227677, 
+        "name": 691710747, 
+        "receive_decal": false, 
+        "scale": 1.0, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "uid": "134238388", 
+        "use_physics": false
+    }, 
+    "134276639": {
+        "_custom_": true, 
+        "_ref_": 134276639, 
+        "collision_box": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    -5, 
+                    5
+                ], 
+                [
+                    -5, 
+                    -5
+                ], 
+                [
+                    5, 
+                    -5
+                ], 
+                [
+                    5, 
+                    5
+                ]
+            ]
+        }, 
+        "collision_height": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "collision_points": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    -2, 
+                    -2
+                ], 
+                [
+                    1, 
+                    1
+                ], 
+                0
+            ]
+        }, 
+        "description": 1014478407, 
+        "effect_list": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    100373, 
+                    [
+                        0, 
+                        0, 
+                        0
+                    ], 
+                    1
+                ]
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 134276639, 
+        "kv": {}, 
+        "model": 134221373, 
+        "name": -321188368, 
+        "receive_decal": false, 
+        "scale": 1.0, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "uid": "134276639", 
+        "use_physics": false
+    }
+}

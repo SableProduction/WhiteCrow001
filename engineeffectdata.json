@@ -1,0 +1,40 @@
+{
+    "base": {
+        "time": 6
+    }, 
+    "bloom": {
+        "bloom_decay": 0.30000000000000004, 
+        "bloom_open": false, 
+        "bloom_strength": 0.20000000000000015
+    }, 
+    "color_grading": {
+        "color_grading_type": 1
+    }, 
+    "fog": {
+        "color": {
+            "__tuple__": true, 
+            "items": [
+                96, 
+                149, 
+                206, 
+                255
+            ]
+        }, 
+        "density": 1, 
+        "end": 450, 
+        "height_begin": 0, 
+        "height_end": 100, 
+        "linear_fog_begin": 0, 
+        "start": 300
+    }, 
+    "sky_box": {
+        "sky_box_type": "world/lingsheng/skybox/HDR_01.png"
+    }, 
+    "terrain": {
+        "terrain_version": 1
+    }, 
+    "vignetting": {
+        "vignetting_open": true, 
+        "vignetting_size": 0.20000000000000004
+    }
+}
