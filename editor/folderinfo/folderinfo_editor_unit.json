@@ -8,7 +8,56 @@
     2147483647, 
     "code_explorer_custom_root_folder_name"
    ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "q0t4QBCIEe2oRXBNe7M-CO", 
+    "NPCs"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    1, 
+    "p6r48BCIEe2iaXBNe7M-CI", 
+    "Monsters"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    2, 
+    "hOlEcBCIEe2sgXBNe7M-CA", 
+    "Playable Character"
+   ]
   }
  ], 
- "d": {}
+ "d": {
+  "134240635": {
+   "__tuple__": true, 
+   "items": [
+    "p6r48BCIEe2iaXBNe7M-CI", 
+    0
+   ]
+  }, 
+  "134234555": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    3
+   ]
+  }, 
+  "134241129": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    4
+   ]
+  }
+ }
 }

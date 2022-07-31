@@ -1,6 +1,6 @@
 {
     "_custom_": true, 
-    "_ref_": 134238816, 
+    "_ref_": 134231971, 
     "collision_box": {
         "__tuple__": true, 
         "items": [
@@ -40,7 +40,7 @@
             0
         ]
     }, 
-    "description": 1086934823, 
+    "description": 47291988, 
     "effect_list": {
         "__tuple__": true, 
         "items": [
@@ -56,10 +56,10 @@
         ]
     }, 
     "icon": 100000, 
-    "key": 134238816, 
+    "key": 134231971, 
     "kv": {}, 
-    "model": 100071, 
-    "name": -42324435, 
+    "model": 103055, 
+    "name": 1929544107, 
     "receive_decal": false, 
     "scale": 1.0, 
     "suffix": "", 
@@ -67,6 +67,6 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134238816", 
+    "uid": "134231971", 
     "use_physics": false
 }

@@ -2,5 +2,13 @@
     "eatrigger_group": [], 
     "eatriggers": [], 
     "eavariable_group": [], 
-    "variable_remark": {}
+    "variable_remark": {
+        "emptyUnitLoc": "", 
+        "initPoint": "", 
+        "initPointLoc": "", 
+        "leftPressed": "", 
+        "rollerIndex": "", 
+        "rollerbladeStart": "", 
+        "rollerbladepathA": ""
+    }
 }

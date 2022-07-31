@@ -4,11 +4,11 @@
     }, 
     "bloom": {
         "bloom_decay": 0.30000000000000004, 
-        "bloom_open": false, 
+        "bloom_open": true, 
         "bloom_strength": 0.20000000000000015
     }, 
     "color_grading": {
-        "color_grading_type": 10
+        "color_grading_type": 8
     }, 
     "fog": {
         "color": {
@@ -34,7 +34,7 @@
         "terrain_version": 1
     }, 
     "vignetting": {
-        "vignetting_open": true, 
+        "vignetting_open": false, 
         "vignetting_size": 0.20000000000000004
     }
 }

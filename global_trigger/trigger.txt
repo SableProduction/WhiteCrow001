@@ -1,7 +1,9 @@
 {
     "group": [], 
     "key": -1, 
-    "key_order": {}, 
+    "key_order": {
+        "VxIKgBBYEe2QmXBNe7M-CF": 1
+    }, 
     "name": "trigger", 
     "sub_trigger": {
         "0": {
@@ -9,6 +11,41 @@
             "items": [
                 1487040513, 
                 "base_trigger"
+            ]
+        }, 
+        "2": {
+            "__tuple__": true, 
+            "items": [
+                1025617923, 
+                "get_currentIndex"
+            ]
+        }, 
+        "3": {
+            "__tuple__": true, 
+            "items": [
+                328282121, 
+                "Right Click"
+            ]
+        }, 
+        "4": {
+            "__tuple__": true, 
+            "items": [
+                1710211082, 
+                "Left Pressed"
+            ]
+        }, 
+        "5": {
+            "__tuple__": true, 
+            "items": [
+                1834029067, 
+                "Left Release"
+            ]
+        }, 
+        "6": {
+            "__tuple__": true, 
+            "items": [
+                818483212, 
+                "FollowTest"
             ]
         }
     }

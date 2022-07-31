@@ -2,7 +2,176 @@
  {
   "name": "MEDITOR_SPOT", 
   "key": 1024, 
-  "group": [], 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000004, 
+     "teleportLoc1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000005, 
+     "teleportLoc2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000012, 
+     "rollerblade_p1", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000013, 
+     "rollerblade_p2", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000014, 
+     "rollerblade_p3", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000015, 
+     "rollerblade_p4", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000019, 
+     "rollerblade_p5", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000020, 
+     "rollerblade_p6", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000021, 
+     "rollerblade_p7", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000022, 
+     "rollerblade_p8", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000023, 
+     "rollerblade_p9", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000024, 
+     "rollerblade_p10", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000025, 
+     "rollerblade_p11", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000026, 
+     "rollerblade_p12", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000028, 
+     "rollerblade_p13", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000029, 
+     "rollerblade_p14", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000030, 
+     "rollerblade_p15", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000031, 
+     "rollerblade_p16", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000032, 
+     "rollerblade_p17", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000033, 
+     "rollerblade_p18", 
+     1024
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000034, 
+     "rollerblade_p19", 
+     1024
+    ]
+   }
+  ], 
   "custom_data": {
    "res_type": 1024
   }
@@ -10,7 +179,16 @@
  {
   "name": "PATH", 
   "key": 8192, 
-  "group": [], 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000036, 
+     "Paths", 
+     8192
+    ]
+   }
+  ], 
   "custom_data": {
    "res_type": 8192
   }
@@ -26,7 +204,40 @@
  {
   "name": "CUSTOM_CIRCLE_AREA", 
   "key": 4096, 
-  "group": [], 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000000, 
+     "Circles", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000002, 
+     "Circles_3", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000009, 
+     "Circles_2", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000010, 
+     "Circles_4", 
+     4096
+    ]
+   }
+  ], 
   "custom_data": {
    "res_type": 4096
   }
@@ -40,6 +251,14 @@
     "items": [
      999999999, 
      "Initial Camera", 
+     32768
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000037, 
+     "Camera2", 
      32768
     ]
    }

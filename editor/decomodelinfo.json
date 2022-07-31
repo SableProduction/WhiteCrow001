@@ -233,13 +233,6 @@
  {
   "__tuple__": true, 
   "items": [
-   240, 
-   "tree_p1"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    247, 
    "tree_p1"
   ]
@@ -248,13 +241,6 @@
   "__tuple__": true, 
   "items": [
    248, 
-   "tree_p1"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   249, 
    "tree_p1"
   ]
  }, 
@@ -290,34 +276,6 @@
   "__tuple__": true, 
   "items": [
    259, 
-   "tree_p1"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   260, 
-   "tree_p1"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   261, 
-   "tree_p1"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   262, 
-   "tree_p1"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   263, 
    "tree_p1"
   ]
  }, 
@@ -366,27 +324,6 @@
  {
   "__tuple__": true, 
   "items": [
-   270, 
-   "tree_p1"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   271, 
-   "tree_p1"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   272, 
-   "tree_p1"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    273, 
    "tree_p1"
   ]
@@ -424,6 +361,874 @@
   "items": [
    284, 
    "tree_p3"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   12, 
+   "barrel1A"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   50, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   51, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   57, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   59, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   60, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   62, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   63, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   64, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   66, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   67, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   68, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   69, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   71, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   72, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   73, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   74, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   75, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   76, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   77, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   80, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   81, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   91, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   95, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   96, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   99, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   100, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   101, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   124, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   125, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   129, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   130, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   131, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   132, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   133, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   134, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   135, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   136, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   137, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   141, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   142, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   147, 
+   "Prop_cart02"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   148, 
+   "Prop_cart02"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   153, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   155, 
+   "tree_p3"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   159, 
+   "House2A"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   161, 
+   "Building2"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   162, 
+   "House01_A"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   163, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   164, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   165, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   166, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   167, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   168, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   170, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   171, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   172, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   173, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   174, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   175, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   176, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   177, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   178, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   179, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   180, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   182, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   183, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   184, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   185, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   186, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   187, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   188, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   190, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   195, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   196, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   197, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   198, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   199, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   200, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   201, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   202, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   203, 
+   "tree_p1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   204, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   205, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   206, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   207, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   208, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   209, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   210, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   211, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   212, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   213, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   214, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   215, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   216, 
+   "tree_p9"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   219, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   220, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   221, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   223, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   224, 
+   "tree_dry_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   226, 
+   "tree_p3"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   227, 
+   "tree_p3"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   228, 
+   "tree_p3"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   229, 
+   "tree_wet_01"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   230, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   231, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   232, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   233, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   234, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   238, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   239, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   241, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   242, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   243, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   244, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   245, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   246, 
+   "tree_p7"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   252, 
+   "tree_p6"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   254, 
+   "tree_p6"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   255, 
+   "tree_p6"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   256, 
+   "tree_p6"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   257, 
+   "tree_p6"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   274, 
+   "tree_p6"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   275, 
+   "tree_p6"
   ]
  }
 ]
