@@ -45,5 +45,69 @@
    "Justine Katrina", 
    0
   ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   8, 
+   "Tyrant Lord", 
+   0
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9, 
+   "Knight", 
+   0
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10, 
+   "townsguard", 
+   0
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   12, 
+   "townsguard", 
+   0
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   13, 
+   "Druid", 
+   0
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   14, 
+   "Wizard", 
+   0
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   16, 
+   "Merchant", 
+   0
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   17, 
+   "Old Man", 
+   0
+  ]
  }
 ]

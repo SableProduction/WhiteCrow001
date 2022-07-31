@@ -1264,7 +1264,7 @@
             "script": "", 
             "trigger_id": 818483212, 
             "trigger_name": "FollowTest", 
-            "valid": true
+            "valid": false
         }, 
         "930041863": {
             "action": [

@@ -1,4 +1,139 @@
 {
+    "455733294": {
+        "action": [
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [], 
+                "element_id": 4557332940002, 
+                "enable": true
+            }
+        ], 
+        "comment_str": {}, 
+        "condition": [], 
+        "enabled": true, 
+        "event": [], 
+        "func_des": "Function Description{time}", 
+        "func_id": "efac270010e711ed9676704d7bb33f08", 
+        "func_name": "CheckFollowerBugged", 
+        "func_param_list": [
+            "time"
+        ], 
+        "group_id": 0, 
+        "is_func": true, 
+        "is_official_func": false, 
+        "p_trigger_id": null, 
+        "script": "", 
+        "trigger_id": 455733294, 
+        "trigger_name": "FollowerTimer", 
+        "valid": false
+    }, 
+    "747569192": {
+        "action": [
+            {
+                "action_type": "TRANS_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            1000000066
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 7475691920003, 
+                "enable": true
+            }, 
+            {
+                "action_type": "TRANS_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            1000000066
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 7475691920004, 
+                "enable": true
+            }
+        ], 
+        "comment_str": {}, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            1000000066
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "CAN_TELEPORT_TO", 
+                "element_id": 7475691920002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100044, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000010
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 7475691920001, 
+                "enable": true, 
+                "event_type": "UNIT_REGION_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "script": "", 
+        "trigger_id": 747569192, 
+        "trigger_name": "teleport3", 
+        "valid": true
+    }, 
     "1025617923": {
         "action": [
             {
@@ -262,5 +397,219 @@
         "trigger_id": 1025617923, 
         "trigger_name": "get_currentIndex", 
         "valid": false
+    }, 
+    "1099534374": {
+        "action": [
+            {
+                "action_type": "TRANS_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            1000000005
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 10995343740003, 
+                "enable": true
+            }, 
+            {
+                "action_type": "TRANS_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            1000000005
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 10995343740004, 
+                "enable": true
+            }
+        ], 
+        "comment_str": {}, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            1000000005
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "CAN_TELEPORT_TO", 
+                "element_id": 10995343740002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100044, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000002
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 10995343740001, 
+                "enable": true, 
+                "event_type": "UNIT_REGION_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "script": "", 
+        "trigger_id": 1099534374, 
+        "trigger_name": "teleport2", 
+        "valid": true
+    }, 
+    "1399742501": {
+        "action": [
+            {
+                "action_type": "TRANS_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            1000000004
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 13997425010011, 
+                "enable": true
+            }, 
+            {
+                "action_type": "TRANS_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            1000000004
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 13997425010014, 
+                "enable": true
+            }
+        ], 
+        "comment_str": {}, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            1000000004
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "CAN_TELEPORT_TO", 
+                "element_id": 13997425010008, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100044, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000009
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 13997425010002, 
+                "enable": true, 
+                "event_type": "UNIT_REGION_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "script": "", 
+        "trigger_id": 1399742501, 
+        "trigger_name": "teleport1", 
+        "valid": true
     }
 }

@@ -2,18 +2,49 @@
     "group": [], 
     "key": -1, 
     "key_order": {
-        "77rewBDAEe2VDXBNe7M-CP": 3, 
+        "1YZ+MBDwEe2iknBNe7M-CJ": 10, 
+        "2BORsBDwEe2OCXBNe7M-CN": 11, 
+        "77rewBDAEe2VDXBNe7M-CP": 2, 
         "VxIKgBBYEe2QmXBNe7M-CF": 0, 
-        "ggQZgBDCEe21SnBNe7M-CP": 4, 
-        "wLtQnhDAEe2r-nBNe7M-CK": 2
+        "ggQZgBDCEe21SnBNe7M-CP": 3, 
+        "lJstMBDrEe2XF3BNe7M-CE": 9, 
+        "wLtQnhDAEe2r-nBNe7M-CK": 1
     }, 
     "name": "trigger", 
     "sub_trigger": {
-        "1": {
+        "4": {
             "__tuple__": true, 
             "items": [
                 1025617923, 
                 "get_currentIndex"
+            ]
+        }, 
+        "5": {
+            "__tuple__": true, 
+            "items": [
+                1399742501, 
+                "teleport1"
+            ]
+        }, 
+        "6": {
+            "__tuple__": true, 
+            "items": [
+                1099534374, 
+                "teleport2"
+            ]
+        }, 
+        "7": {
+            "__tuple__": true, 
+            "items": [
+                747569192, 
+                "teleport3"
+            ]
+        }, 
+        "8": {
+            "__tuple__": true, 
+            "items": [
+                455733294, 
+                "FollowerTimer"
             ]
         }
     }

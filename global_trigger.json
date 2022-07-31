@@ -5,7 +5,10 @@
     "variable_remark": {
         "RollerDest": "", 
         "RollerMoving": "", 
-        "emptyUnitLoc": "", 
+        "ShadtailBDes": "", 
+        "ShadtailBTargets": "", 
+        "ShadtailCDes": "", 
+        "ShadtailCTargets": "", 
         "initPoint": "", 
         "initPointLoc": "", 
         "leftPressed": "", 
@@ -13,7 +16,12 @@
         "rollerDes": "", 
         "rollerIndex": "", 
         "rollerTargets": "", 
-        "rollerbladeStart": "", 
-        "rollerbladepathA": ""
+        "rollerbladepathA": "", 
+        "shadtailADes": "", 
+        "shadtailAMoving": "", 
+        "shadtailATargets": "", 
+        "shadtailIndex1": "", 
+        "shadtailIndex2": "", 
+        "shadtailIndex3": ""
     }
 }

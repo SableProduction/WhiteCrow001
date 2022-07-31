@@ -18,6 +18,14 @@
      "teleportLoc2", 
      1024
     ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000066, 
+     "teleportLoc3", 
+     1024
+    ]
    }
   ], 
   "custom_data": {
@@ -40,6 +48,14 @@
     "__tuple__": true, 
     "items": [
      1000000062, 
+     "RustedSword", 
+     2048
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000064, 
      "Rectangles", 
      2048
     ]
@@ -57,7 +73,7 @@
     "__tuple__": true, 
     "items": [
      1000000000, 
-     "Circles", 
+     "SideBeachHidden", 
      4096
     ]
    }, 
@@ -65,7 +81,7 @@
     "__tuple__": true, 
     "items": [
      1000000002, 
-     "Circles_3", 
+     "Gate2", 
      4096
     ]
    }, 
@@ -73,7 +89,7 @@
     "__tuple__": true, 
     "items": [
      1000000009, 
-     "Circles_2", 
+     "Gate1", 
      4096
     ]
    }, 
@@ -81,7 +97,7 @@
     "__tuple__": true, 
     "items": [
      1000000010, 
-     "Circles_4", 
+     "Gate3", 
      4096
     ]
    }, 
@@ -266,6 +282,190 @@
     "items": [
      1000000061, 
      "roller18", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000065, 
+     "ShadtailsCamp", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000067, 
+     "Shadtail_a1", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000068, 
+     "Shadtail_a2", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000069, 
+     "Shadtail_a3", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000070, 
+     "Shadtail_a4", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000071, 
+     "Shadtail_a5", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000072, 
+     "Shadtail_a6", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000073, 
+     "Shadtail_b1", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000074, 
+     "Shadtail_b2", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000075, 
+     "Shadtail_b3", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000076, 
+     "Shadtail_b4", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000077, 
+     "Shadtail_b5", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000078, 
+     "Shadtail_b6", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000079, 
+     "Shadtail_b7", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000080, 
+     "Shadtail_b8", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000081, 
+     "Shadtail_c1", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000082, 
+     "Shadtail_c2", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000083, 
+     "Shadtail_c3", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000084, 
+     "Shadtail_c4", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000085, 
+     "Shadtail_c5", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000086, 
+     "Shadtail_c6", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000087, 
+     "Shadtail_c7", 
+     4096
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000088, 
+     "Shadtail_c8", 
      4096
     ]
    }

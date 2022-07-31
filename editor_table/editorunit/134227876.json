@@ -1,6 +1,6 @@
 {
     "_custom_": true, 
-    "_ref_": 134240635, 
+    "_ref_": 134227876, 
     "affect_techs": {
         "__tuple__": true, 
         "items": []
@@ -12,15 +12,15 @@
     "armor_type": 1, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
-    "attack_phy": 10.0, 
+    "attack_phy": 100.0, 
     "attack_phy_grow": 0.0, 
     "attack_speed": 100.0, 
     "attack_speed_grow": 0.0, 
     "attack_type": 1, 
     "bar_show_name": 0, 
-    "bar_show_scale": true, 
+    "bar_show_scale": false, 
     "bar_slot_size": 0, 
-    "blood_bar": 1048580, 
+    "blood_bar": 0, 
     "blood_show_type": 1, 
     "body_size": 1.0, 
     "build_res_cost_list": {
@@ -34,16 +34,10 @@
     "cancel_alarm_range": 10.0, 
     "cd_reduce": 0.0, 
     "cd_reduce_grow": 0.0, 
-    "common_ability_list": [
-        [
-            201347498, 
-            1
-        ], 
-        [
-            201385536, 
-            1
-        ]
-    ], 
+    "common_ability_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
     "common_atk": {
         "__tuple__": true, 
         "items": [
@@ -55,17 +49,17 @@
     "copper coin": 0, 
     "critical_chance": 0.0, 
     "critical_chance_grow": 0.0, 
-    "critical_dmg": 0.0, 
+    "critical_dmg": 200.0, 
     "critical_dmg_grow": 0.0, 
     "dead_exp": 5, 
     "dead_money": 5, 
-    "default_behaviour_type": "caution", 
+    "default_behaviour_type": "", 
     "defense_mag": 0.0, 
     "defense_mag_grow": 0.0, 
-    "defense_phy": 0.0, 
+    "defense_phy": 10.0, 
     "defense_phy_grow": 0.0, 
-    "description": -1582655646, 
-    "destroy_after_die": true, 
+    "description": -1055867946, 
+    "destroy_after_die": false, 
     "die_anim": "die", 
     "dmg_reduction": 0.0, 
     "dmg_reduction_grow": 0.0, 
@@ -91,9 +85,9 @@
     }, 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
-    "hp_max": 20.0, 
+    "hp_max": 1000.0, 
     "hp_max_grow": 0.0, 
-    "hp_rec": 0.0, 
+    "hp_rec": 10.0, 
     "hp_rec_grow": 1.0, 
     "icon": 101885, 
     "idle_anim": "idle1", 
@@ -103,14 +97,14 @@
     "is_mini_map_show": false, 
     "is_shop": false, 
     "keep_dead_body_time": 2.0, 
-    "key": 134240635, 
+    "key": 134227876, 
     "kv": {}, 
     "level": 1, 
     "main_attr": "strength", 
     "max_stock": 5, 
     "mini_map_icon": 100000, 
     "mini_map_icon_scale": 1.0, 
-    "model": 104797, 
+    "model": 200338, 
     "model_height": 0.0, 
     "move_type": 40, 
     "mp_color": "Blue", 
@@ -119,8 +113,8 @@
     "mp_max_grow": 0.0, 
     "mp_rec": 10.0, 
     "mp_rec_grow": 2.0, 
-    "name": 370050726, 
-    "ori_bits": 975104, 
+    "name": 747283414, 
+    "ori_bits": 975198, 
     "ori_speed": 0.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
@@ -172,7 +166,7 @@
         "items": []
     }, 
     "type": 4, 
-    "uid": "134240635", 
+    "uid": "134227876", 
     "vampire_mag": 0.0, 
     "vampire_mag_grow": 0.0, 
     "vampire_phy": 0.0, 

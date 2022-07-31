@@ -1,5 +1,47 @@
 {
     "local_variable": {
+        "202956872": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0
+                }, 
+                "POINT": {
+                    "destination": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {}
+            }, 
+            "variable_length_dict": {
+                "destination": 0, 
+                "index": 0
+            }, 
+            "variable_type_dict": {
+                "destination": false, 
+                "index": false
+            }
+        }, 
+        "236527694": {
+            "variable_dict": {
+                "INTEGER": {}, 
+                "POINT": {}
+            }, 
+            "variable_length_dict": {}, 
+            "variable_type_dict": {}
+        }, 
+        "244039727": {
+            "variable_dict": {
+                "INTEGER": {}, 
+                "POINT": {}
+            }, 
+            "variable_length_dict": {}, 
+            "variable_type_dict": {}
+        }, 
         "328282121": {
             "variable_dict": {
                 "UNIT_NAME": {
@@ -11,6 +53,73 @@
             }, 
             "variable_type_dict": {
                 "unit": false
+            }
+        }, 
+        "455733294": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "time": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "time": 0
+            }, 
+            "variable_type_dict": {
+                "time": false
+            }
+        }, 
+        "605610055": {
+            "variable_dict": {
+                "INTEGER": {}, 
+                "POINT": {}
+            }, 
+            "variable_length_dict": {}, 
+            "variable_type_dict": {}
+        }, 
+        "653586469": {
+            "variable_dict": {
+                "POINT": {
+                    "ranPos": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "ranPos": 0
+            }, 
+            "variable_type_dict": {
+                "ranPos": false
+            }
+        }, 
+        "739844175": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0
+                }, 
+                "POINT": {
+                    "destination": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {}
+            }, 
+            "variable_length_dict": {
+                "destination": 0, 
+                "index": 0
+            }, 
+            "variable_type_dict": {
+                "destination": false, 
+                "index": false
             }
         }, 
         "1025617923": {
@@ -31,6 +140,32 @@
             "variable_type_dict": {}
         }, 
         "1271103501": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0
+                }, 
+                "POINT": {
+                    "destination": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {}
+            }, 
+            "variable_length_dict": {
+                "destination": 0, 
+                "index": 0
+            }, 
+            "variable_type_dict": {
+                "destination": false, 
+                "index": false
+            }
+        }, 
+        "1334558768": {
             "variable_dict": {
                 "INTEGER": {
                     "index": 0
@@ -96,15 +231,87 @@
         "1710211082": {
             "variable_dict": {
                 "BOOLEAN": {}, 
+                "POINT": {
+                    "localPos": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "offPos": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "randPos": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
                 "UNIT_ENTITY": {
                     "setUnit": 0
                 }
             }, 
             "variable_length_dict": {
+                "localPos": 0, 
+                "offPos": 0, 
+                "randPos": 0, 
                 "setUnit": 0
             }, 
             "variable_type_dict": {
+                "localPos": false, 
+                "offPos": false, 
+                "randPos": false, 
                 "setUnit": false
+            }
+        }, 
+        "1982447654": {
+            "variable_dict": {
+                "POINT": {
+                    "locPos": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "offsetPos": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "ranPos": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "locPos": 0, 
+                "offsetPos": 0, 
+                "ranPos": 0
+            }, 
+            "variable_type_dict": {
+                "locPos": false, 
+                "offsetPos": false, 
+                "ranPos": false
             }
         }
     }, 
@@ -114,10 +321,13 @@
             "RollerMoving": false, 
             "initPoint": false, 
             "leftPressed": false, 
-            "rollerbladeStart": false
+            "shadtailAMoving": false
         }, 
         "INTEGER": {
-            "rollerIndex": 0
+            "rollerIndex": 0, 
+            "shadtailIndex1": 0, 
+            "shadtailIndex2": 0, 
+            "shadtailIndex3": 0
         }, 
         "POINT": {
             "RollerDest": {
@@ -146,13 +356,17 @@
             }
         }, 
         "ROUND_AREA": {
+            "ShadtailBDes": 0, 
+            "ShadtailBTargets": 0, 
+            "ShadtailCDes": 0, 
+            "ShadtailCTargets": 0, 
             "playerTarget": 0, 
             "rollerDes": 0, 
-            "rollerTargets": 0
+            "rollerTargets": 0, 
+            "shadtailADes": 0, 
+            "shadtailATargets": 0
         }, 
-        "UNIT_ENTITY": {
-            "emptyUnitLoc": 0
-        }, 
+        "UNIT_ENTITY": {}, 
         "UNIT_NAME": {}
     }, 
     "variable_group_info": [
@@ -161,13 +375,6 @@
             "items": [
                 "rollerbladepathA", 
                 "(rollerbladepathA)"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "rollerbladeStart", 
-                "(rollerbladeStart)"
             ]
         }, 
         {
@@ -189,13 +396,6 @@
             "items": [
                 "initPoint", 
                 "(initPoint)"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "emptyUnitLoc", 
-                "(emptyUnitLoc)"
             ]
         }, 
         {
@@ -239,12 +439,85 @@
                 "playerTarget", 
                 "(playerTarget)"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "shadtailADes", 
+                "(shadtailADes)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "shadtailATargets", 
+                "(shadtailATargets)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "shadtailIndex1", 
+                "(shadtailIndex1)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "shadtailAMoving", 
+                "(shadtailAMoving)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ShadtailBDes", 
+                "(ShadtailBDes)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ShadtailBTargets", 
+                "(ShadtailBTargets)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "shadtailIndex2", 
+                "(shadtailIndex2)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ShadtailCTargets", 
+                "(ShadtailCTargets)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ShadtailCDes", 
+                "(ShadtailCDes)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "shadtailIndex3", 
+                "(shadtailIndex3)"
+            ]
         }
     ], 
     "variable_length_dict": {
         "RollerDest": 0, 
         "RollerMoving": 0, 
-        "emptyUnitLoc": 0, 
+        "ShadtailBDes": 0, 
+        "ShadtailBTargets": 10, 
+        "ShadtailCDes": 0, 
+        "ShadtailCTargets": 10, 
         "initPoint": 0, 
         "initPointLoc": 0, 
         "leftPressed": 0, 
@@ -252,13 +525,21 @@
         "rollerDes": 0, 
         "rollerIndex": 0, 
         "rollerTargets": 10, 
-        "rollerbladeStart": 0, 
-        "rollerbladepathA": 10
+        "rollerbladepathA": 10, 
+        "shadtailADes": 0, 
+        "shadtailAMoving": 0, 
+        "shadtailATargets": 10, 
+        "shadtailIndex1": 0, 
+        "shadtailIndex2": 0, 
+        "shadtailIndex3": 0
     }, 
     "variable_remark": {
         "RollerDest": "", 
         "RollerMoving": "", 
-        "emptyUnitLoc": "", 
+        "ShadtailBDes": "", 
+        "ShadtailBTargets": "", 
+        "ShadtailCDes": "", 
+        "ShadtailCTargets": "", 
         "initPoint": "", 
         "initPointLoc": "", 
         "leftPressed": "", 
@@ -266,13 +547,21 @@
         "rollerDes": "", 
         "rollerIndex": "", 
         "rollerTargets": "", 
-        "rollerbladeStart": "", 
-        "rollerbladepathA": ""
+        "rollerbladepathA": "", 
+        "shadtailADes": "", 
+        "shadtailAMoving": "", 
+        "shadtailATargets": "", 
+        "shadtailIndex1": "", 
+        "shadtailIndex2": "", 
+        "shadtailIndex3": ""
     }, 
     "variable_type_dict": {
         "RollerDest": false, 
         "RollerMoving": false, 
-        "emptyUnitLoc": false, 
+        "ShadtailBDes": false, 
+        "ShadtailBTargets": true, 
+        "ShadtailCDes": false, 
+        "ShadtailCTargets": true, 
         "initPoint": false, 
         "initPointLoc": false, 
         "leftPressed": false, 
@@ -280,7 +569,12 @@
         "rollerDes": false, 
         "rollerIndex": false, 
         "rollerTargets": true, 
-        "rollerbladeStart": false, 
-        "rollerbladepathA": true
+        "rollerbladepathA": true, 
+        "shadtailADes": false, 
+        "shadtailAMoving": false, 
+        "shadtailATargets": true, 
+        "shadtailIndex1": false, 
+        "shadtailIndex2": false, 
+        "shadtailIndex3": false
     }
 }

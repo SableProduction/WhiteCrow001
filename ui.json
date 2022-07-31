@@ -52325,9 +52325,18 @@
                         0.0, 
                         0.0
                     ], 
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            26, 
+                            30, 
+                            96, 
+                            96
+                        ]
+                    }, 
                     "children": [], 
                     "event_list": [], 
-                    "image": 120835, 
+                    "image": 134229457, 
                     "name": "loading_background", 
                     "open_adapter": true, 
                     "pos": {

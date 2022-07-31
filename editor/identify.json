@@ -1382,6 +1382,17 @@
   "RollerMoving": 1691172385, 
   "rollerTargets": 1742230458, 
   "rollerDes": 2014284753, 
-  "playerTarget": 1952015143
+  "playerTarget": 1952015143, 
+  "shadtailADes": 1994581856, 
+  "shadtailATargets": 1802535214, 
+  "shadtailAMoving": 1849173042, 
+  "shadtailIndex1": 1120702558, 
+  "ShadtailBDes": 1388318721, 
+  "ShadtailBTargets": 1315834747, 
+  "shadtailIndex2": 1408988206, 
+  "ShadtailCTargets": 2073005411, 
+  "ShadtailADes": 1861811431, 
+  "ShadtailCDes": 1614063001, 
+  "shadtailIndex3": 1494358621
  }
 }
