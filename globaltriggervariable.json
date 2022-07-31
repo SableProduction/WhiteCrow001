@@ -146,6 +146,7 @@
             }
         }, 
         "ROUND_AREA": {
+            "playerTarget": 0, 
             "rollerDes": 0, 
             "rollerTargets": 0
         }, 
@@ -231,6 +232,13 @@
                 "rollerDes", 
                 "(rollerDes)"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "playerTarget", 
+                "(playerTarget)"
+            ]
         }
     ], 
     "variable_length_dict": {
@@ -240,6 +248,7 @@
         "initPoint": 0, 
         "initPointLoc": 0, 
         "leftPressed": 0, 
+        "playerTarget": 0, 
         "rollerDes": 0, 
         "rollerIndex": 0, 
         "rollerTargets": 10, 
@@ -253,6 +262,7 @@
         "initPoint": "", 
         "initPointLoc": "", 
         "leftPressed": "", 
+        "playerTarget": "", 
         "rollerDes": "", 
         "rollerIndex": "", 
         "rollerTargets": "", 
@@ -266,6 +276,7 @@
         "initPoint": false, 
         "initPointLoc": false, 
         "leftPressed": false, 
+        "playerTarget": false, 
         "rollerDes": false, 
         "rollerIndex": false, 
         "rollerTargets": true, 

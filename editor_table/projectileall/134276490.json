@@ -1,0 +1,52 @@
+{
+    "_custom_": true, 
+    "_ref_": 201357484, 
+    "async_effect": false, 
+    "description": 451437830, 
+    "effect_foes": {
+        "__tuple__": true, 
+        "items": [
+            101962, 
+            [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            1.0
+        ]
+    }, 
+    "effect_friend": {
+        "__tuple__": true, 
+        "items": [
+            101962, 
+            [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            1.0
+        ]
+    }, 
+    "icon": 100000, 
+    "key": 134276490, 
+    "kv": {}, 
+    "max_duration": 60.0, 
+    "name": -1566455283, 
+    "sfx_loop": true, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134276490"
+}

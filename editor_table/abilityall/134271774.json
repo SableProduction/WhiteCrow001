@@ -1,0 +1,159 @@
+{
+    "_custom_": true, 
+    "_ref_": 134271774, 
+    "ability_bw_point": 0.5, 
+    "ability_cast_point": 0.0, 
+    "ability_cast_range": 3.0, 
+    "ability_cast_type": 2, 
+    "ability_channel_time": 0.0, 
+    "ability_cost": {
+        "__tuple__": true, 
+        "items": [
+            "lambda unit: Fix32(0)", 
+            [], 
+            "lambda unit: Fix32(0)", 
+            {}, 
+            []
+        ]
+    }, 
+    "ability_damage": {
+        "__tuple__": true, 
+        "items": [
+            "lambda unit: Fix32(10)", 
+            [], 
+            "lambda unit: Fix32(10)", 
+            {}, 
+            []
+        ]
+    }, 
+    "ability_damage_range": 100.0, 
+    "ability_icon": 100508, 
+    "ability_max_level": 1, 
+    "ability_max_stack_count": 0, 
+    "ability_prepare_time": 0.0, 
+    "ability_stack_cd": 0, 
+    "arrow_length": 5, 
+    "arrow_width": 2, 
+    "bs_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "bs_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "build_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "bw_ignore_ability_command": false, 
+    "bw_ignore_move_command": false, 
+    "bw_move_interrupt": true, 
+    "can_bs_interrupt": false, 
+    "can_cache": true, 
+    "can_cast_interrupt": false, 
+    "can_interrupt_others": false, 
+    "can_prepare_interrupt": false, 
+    "can_ps_interrupt": false, 
+    "cast_ignore_ability_command": true, 
+    "cast_ignore_move_command": true, 
+    "cast_move_interrupt": false, 
+    "circle_radius": 5, 
+    "cold_down_time": {
+        "__tuple__": true, 
+        "items": [
+            "lambda unit: Fix32(1000000000)", 
+            [], 
+            "lambda unit: Fix32(1000000000)", 
+            {}, 
+            []
+        ]
+    }, 
+    "csp_ignore_ability_command": false, 
+    "csp_ignore_move_command": false, 
+    "csp_move_interrupt": true, 
+    "cst_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cst_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "description": 1015319202, 
+    "end_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "end_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "filter_condition_camp": 10, 
+    "filter_condition_type": 1, 
+    "hit_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "hit_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "influenced_by_move": false, 
+    "is_charge_ability": false, 
+    "is_immediate": true, 
+    "is_meele": false, 
+    "key": 134271774, 
+    "kv": {}, 
+    "magicbook_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "name": 1819802288, 
+    "need_turn_to_target": true, 
+    "precondition_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "prepare_ignore_ability_command": true, 
+    "prepare_ignore_move_command": true, 
+    "prepare_move_interrupt": false, 
+    "ps_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ps_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_immediately_out_of_range": true, 
+    "required_level": {
+        "formula": "", 
+        "required_levels": [
+            1, 
+            2, 
+            3, 
+            4, 
+            5
+        ]
+    }, 
+    "sector_radian": 2, 
+    "sector_radius": 10, 
+    "sight_type": 0, 
+    "sp_count_down": false, 
+    "sp_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "target_attribute": 0, 
+    "uid": "134271774"
+}

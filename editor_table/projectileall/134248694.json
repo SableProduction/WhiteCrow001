@@ -1,0 +1,66 @@
+{
+    "_custom_": true, 
+    "_ref_": 201331330, 
+    "async_effect": false, 
+    "description": -433275254, 
+    "effect_button": null, 
+    "effect_foes": {
+        "__tuple__": true, 
+        "items": [
+            102156, 
+            [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            1.0
+        ]
+    }, 
+    "effect_friend": {
+        "__tuple__": true, 
+        "items": [
+            102156, 
+            [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            1.0
+        ]
+    }, 
+    "follow_create_scale": false, 
+    "icon": 100000, 
+    "key": 134248694, 
+    "kv": {}, 
+    "max_duration": 60, 
+    "name": 1130728919, 
+    "projectile_fx": 100166, 
+    "projectile_fx_enemy": "", 
+    "projectile_fx_scale": 1, 
+    "projectile_fx_scale_aks": 1.2, 
+    "projectile_fx_scale_y": 1.2, 
+    "projectile_fx_scale_z": 1.2, 
+    "sfx_frame_rate": 1.2, 
+    "sfx_loop": true, 
+    "sfx_rotate_y": 0.0, 
+    "sfx_rotation_aks": 0.0, 
+    "sfx_rotation_y": 0, 
+    "sfx_rotation_z": 0.0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "theme": 1, 
+    "uid": "134248694"
+}

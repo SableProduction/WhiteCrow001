@@ -1,0 +1,24 @@
+{
+    "describe": 1424673623, 
+    "essential_socket": {}, 
+    "key": 104517, 
+    "model_id": 801497, 
+    "name": 488707115, 
+    "preview_icon": "UP1ModelPreview/104517", 
+    "select_effect_scale": 2.85714285714, 
+    "size": 0.35, 
+    "socket_info": {
+        "default_0": {
+            "__tuple__": true, 
+            "items": [
+                "default_0", 
+                "", 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_104517"
+}

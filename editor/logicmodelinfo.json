@@ -35,7 +35,16 @@
  {
   "name": "CUSTOM_REC_AREA", 
   "key": 2048, 
-  "group": [], 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000062, 
+     "Rectangles", 
+     2048
+    ]
+   }
+  ], 
   "custom_data": {
    "res_type": 2048
   }

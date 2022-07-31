@@ -9,6 +9,7 @@
         "initPoint": "", 
         "initPointLoc": "", 
         "leftPressed": "", 
+        "playerTarget": "", 
         "rollerDes": "", 
         "rollerIndex": "", 
         "rollerTargets": "", 

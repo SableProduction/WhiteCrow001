@@ -1,0 +1,130 @@
+{
+    "trigger_dict": {
+        "85151774": {
+            "action": [
+                {
+                    "action_type": "UNIT_ADD_ABILITY", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                2
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100182, 
+                            "args_list": [
+                                0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100039, 
+                            "args_list": [
+                                134271774
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 851517740012, 
+                    "enable": true, 
+                    "op_arg": [
+                        null
+                    ], 
+                    "op_arg_enable": [
+                        false
+                    ]
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                2
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "condition_type": "TYPE_IS_EXIST", 
+                    "element_id": 851517740005, 
+                    "enable": true
+                }
+            ], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                2
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100044, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100009, 
+                            "args_list": [
+                                1000000062
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 851517740026, 
+                    "enable": true, 
+                    "event_type": "UNIT_REGION_EVENT"
+                }
+            ], 
+            "group_id": "77rewBDAEe2VDXBNe7M-CP", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 85151774, 
+            "trigger_name": "Learn Rusted Sword", 
+            "valid": true
+        }, 
+        "120926239": {
+            "action": [], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "group_id": "77rewBDAEe2VDXBNe7M-CP", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 120926239, 
+            "trigger_name": "New Trigger", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    85151774, 
+                    "Learn Rusted Sword"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    120926239, 
+                    "New Trigger"
+                ]
+            }
+        ], 
+        "key": "77rewBDAEe2VDXBNe7M-CP", 
+        "name": "Abilities"
+    }
+}

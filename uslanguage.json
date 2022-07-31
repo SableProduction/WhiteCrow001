@@ -11,6 +11,10 @@
         "key": -1846507666, 
         "value": "Please input"
     }, 
+    "-1782634296": {
+        "key": -1782634296, 
+        "value": "Description"
+    }, 
     "-1624822304": {
         "key": -1624822304, 
         "value": "House01_A"
@@ -18,6 +22,18 @@
     "-1582655646": {
         "key": -1582655646, 
         "value": "Please input"
+    }, 
+    "-1566455283": {
+        "key": -1566455283, 
+        "value": "Taurell Ability 2 Explosive Projectile"
+    }, 
+    "-1499652798": {
+        "key": -1499652798, 
+        "value": "Taurell  Ultimate Ability Projectile 1"
+    }, 
+    "-1492316626": {
+        "key": -1492316626, 
+        "value": "Description"
     }, 
     "-1403003798": {
         "key": -1403003798, 
@@ -31,6 +47,14 @@
         "key": -1134433817, 
         "value": "Please input"
     }, 
+    "-1117665218": {
+        "key": -1117665218, 
+        "value": "Please input"
+    }, 
+    "-1023496322": {
+        "key": -1023496322, 
+        "value": "Description"
+    }, 
     "-1001731293": {
         "key": -1001731293, 
         "value": "tree_p7"
@@ -41,7 +65,7 @@
     }, 
     "-997261081": {
         "key": -997261081, 
-        "value": "Rollerblade Girl"
+        "value": "Rollerblade Girl (redundant)"
     }, 
     "-909671548": {
         "key": -909671548, 
@@ -51,9 +75,21 @@
         "key": -854391703, 
         "value": "Please input"
     }, 
+    "-800838725": {
+        "key": -800838725, 
+        "value": "Taurell Ability 1 Buff Projectile"
+    }, 
+    "-794259051": {
+        "key": -794259051, 
+        "value": "Please input"
+    }, 
     "-777957166": {
         "key": -777957166, 
         "value": "tree_dry_01"
+    }, 
+    "-759085345": {
+        "key": -759085345, 
+        "value": "Mirror"
     }, 
     "-721357972": {
         "key": -721357972, 
@@ -67,6 +103,14 @@
         "key": -557485599, 
         "value": "tree_p2"
     }, 
+    "-447301265": {
+        "key": -447301265, 
+        "value": "Please input"
+    }, 
+    "-433275254": {
+        "key": -433275254, 
+        "value": "Sacred Arrow"
+    }, 
     "-321188368": {
         "key": -321188368, 
         "value": "barrel1A"
@@ -74,6 +118,10 @@
     "-208807624": {
         "key": -208807624, 
         "value": "HouseC"
+    }, 
+    "-199098785": {
+        "key": -199098785, 
+        "value": "Taurell  Ultimate Ability Projectile 2"
     }, 
     "-190565622": {
         "key": -190565622, 
@@ -107,6 +155,10 @@
         "key": 47291988, 
         "value": "Please input"
     }, 
+    "184595190": {
+        "key": 184595190, 
+        "value": "Please input"
+    }, 
     "231225648": {
         "key": 231225648, 
         "value": "Please input"
@@ -118,6 +170,10 @@
     "370050726": {
         "key": 370050726, 
         "value": "Shadtail"
+    }, 
+    "451437830": {
+        "key": 451437830, 
+        "value": "Description"
     }, 
     "527111058": {
         "key": 527111058, 
@@ -139,9 +195,37 @@
         "key": 691710747, 
         "value": "Building2"
     }, 
+    "857305589": {
+        "key": 857305589, 
+        "value": "Justine Katrina"
+    }, 
+    "884790620": {
+        "key": 884790620, 
+        "value": "Description"
+    }, 
+    "982052543": {
+        "key": 982052543, 
+        "value": "Sanddevil"
+    }, 
+    "1000638354": {
+        "key": 1000638354, 
+        "value": "Description"
+    }, 
     "1014478407": {
         "key": 1014478407, 
         "value": "Please input"
+    }, 
+    "1015319202": {
+        "key": 1015319202, 
+        "value": "Permanent Damage bonus"
+    }, 
+    "1070251457": {
+        "key": 1070251457, 
+        "value": "White Crow Follower"
+    }, 
+    "1076671280": {
+        "key": 1076671280, 
+        "value": "Description"
     }, 
     "1079581899": {
         "key": 1079581899, 
@@ -155,9 +239,21 @@
         "key": 1106028046, 
         "value": "tree_p9"
     }, 
+    "1109558825": {
+        "key": 1109558825, 
+        "value": "Rock2103"
+    }, 
+    "1123502075": {
+        "key": 1123502075, 
+        "value": "Rusted Sword"
+    }, 
     "1126874994": {
         "key": 1126874994, 
         "value": "Prop_cart02"
+    }, 
+    "1130728919": {
+        "key": 1130728919, 
+        "value": "God Bird Flying Arrow"
     }, 
     "1318060088": {
         "key": 1318060088, 
@@ -194,6 +290,22 @@
     "1697211647": {
         "key": 1697211647, 
         "value": "Please input"
+    }, 
+    "1745587515": {
+        "key": 1745587515, 
+        "value": "Please input"
+    }, 
+    "1801581318": {
+        "key": 1801581318, 
+        "value": "Rusted Sword"
+    }, 
+    "1819802288": {
+        "key": 1819802288, 
+        "value": "Equip Rusted Sword"
+    }, 
+    "1898100894": {
+        "key": 1898100894, 
+        "value": "Fox Smash-Explosive"
     }, 
     "1929544107": {
         "key": 1929544107, 

@@ -1,1 +1,460 @@
-{}
+{
+    "134221291": {
+        "_custom_": true, 
+        "_ref_": 201385814, 
+        "async_effect": false, 
+        "description": -1492316626, 
+        "effect_button": null, 
+        "effect_foes": {
+            "__tuple__": true, 
+            "items": [
+                100388, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "effect_friend": {
+            "__tuple__": true, 
+            "items": [
+                100388, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "follow_create_scale": false, 
+        "icon": 100000, 
+        "key": 134221291, 
+        "kv": {}, 
+        "max_duration": 60, 
+        "name": -759085345, 
+        "projectile_fx": 100357, 
+        "projectile_fx_enemy": "", 
+        "projectile_fx_scale": 1, 
+        "projectile_fx_scale_aks": 1.2, 
+        "projectile_fx_scale_y": 1.2, 
+        "projectile_fx_scale_z": 1.2, 
+        "sfx_frame_rate": 1.2, 
+        "sfx_loop": false, 
+        "sfx_rotate_y": 0.0, 
+        "sfx_rotation_aks": 0.0, 
+        "sfx_rotation_y": 0, 
+        "sfx_rotation_z": 0.0, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "theme": 1, 
+        "uid": "134221291"
+    }, 
+    "134241978": {
+        "_custom_": true, 
+        "_ref_": 201327421, 
+        "async_effect": false, 
+        "description": -1782634296, 
+        "effect_foes": {
+            "__tuple__": true, 
+            "items": [
+                101961, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "effect_friend": {
+            "__tuple__": true, 
+            "items": [
+                101961, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 134241978, 
+        "kv": {}, 
+        "max_duration": 60.0, 
+        "name": -800838725, 
+        "sfx_loop": true, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "uid": "134241978"
+    }, 
+    "134248694": {
+        "_custom_": true, 
+        "_ref_": 201331330, 
+        "async_effect": false, 
+        "description": -433275254, 
+        "effect_button": null, 
+        "effect_foes": {
+            "__tuple__": true, 
+            "items": [
+                102156, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "effect_friend": {
+            "__tuple__": true, 
+            "items": [
+                102156, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "follow_create_scale": false, 
+        "icon": 100000, 
+        "key": 134248694, 
+        "kv": {}, 
+        "max_duration": 60, 
+        "name": 1130728919, 
+        "projectile_fx": 100166, 
+        "projectile_fx_enemy": "", 
+        "projectile_fx_scale": 1, 
+        "projectile_fx_scale_aks": 1.2, 
+        "projectile_fx_scale_y": 1.2, 
+        "projectile_fx_scale_z": 1.2, 
+        "sfx_frame_rate": 1.2, 
+        "sfx_loop": true, 
+        "sfx_rotate_y": 0.0, 
+        "sfx_rotation_aks": 0.0, 
+        "sfx_rotation_y": 0, 
+        "sfx_rotation_z": 0.0, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "theme": 1, 
+        "uid": "134248694"
+    }, 
+    "134252740": {
+        "_custom_": true, 
+        "_ref_": 201331180, 
+        "async_effect": false, 
+        "description": 1000638354, 
+        "effect_button": null, 
+        "effect_foes": {
+            "__tuple__": true, 
+            "items": [
+                101989, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "effect_friend": {
+            "__tuple__": true, 
+            "items": [
+                101989, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "follow_create_scale": false, 
+        "icon": 100000, 
+        "key": 134252740, 
+        "kv": {}, 
+        "max_duration": 60, 
+        "name": 1898100894, 
+        "projectile_fx": 100357, 
+        "projectile_fx_enemy": "", 
+        "projectile_fx_scale": 1, 
+        "projectile_fx_scale_aks": 1.2, 
+        "projectile_fx_scale_y": 1.2, 
+        "projectile_fx_scale_z": 1.2, 
+        "sfx_frame_rate": 1.2, 
+        "sfx_loop": true, 
+        "sfx_rotate_y": 0.0, 
+        "sfx_rotation_aks": 0.0, 
+        "sfx_rotation_y": 0, 
+        "sfx_rotation_z": 0.0, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "theme": 1, 
+        "uid": "134252740"
+    }, 
+    "134272726": {
+        "_custom_": true, 
+        "_ref_": 201390328, 
+        "async_effect": false, 
+        "description": -1023496322, 
+        "effect_foes": {
+            "__tuple__": true, 
+            "items": [
+                101967, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "effect_friend": {
+            "__tuple__": true, 
+            "items": [
+                101967, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 134272726, 
+        "kv": {}, 
+        "max_duration": 60.0, 
+        "name": -199098785, 
+        "sfx_loop": true, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "uid": "134272726"
+    }, 
+    "134276490": {
+        "_custom_": true, 
+        "_ref_": 201357484, 
+        "async_effect": false, 
+        "description": 451437830, 
+        "effect_foes": {
+            "__tuple__": true, 
+            "items": [
+                101962, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "effect_friend": {
+            "__tuple__": true, 
+            "items": [
+                101962, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 134276490, 
+        "kv": {}, 
+        "max_duration": 60.0, 
+        "name": -1566455283, 
+        "sfx_loop": true, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "uid": "134276490"
+    }, 
+    "134279046": {
+        "_custom_": true, 
+        "_ref_": 201343335, 
+        "async_effect": false, 
+        "description": 1076671280, 
+        "effect_foes": {
+            "__tuple__": true, 
+            "items": [
+                101966, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "effect_friend": {
+            "__tuple__": true, 
+            "items": [
+                101966, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 134279046, 
+        "kv": {}, 
+        "max_duration": 60.0, 
+        "name": -1499652798, 
+        "sfx_loop": true, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "uid": "134279046"
+    }, 
+    "201331351": {
+        "async_effect": false, 
+        "description": 437718616, 
+        "effect_button": null, 
+        "effect_foes": {
+            "__tuple__": true, 
+            "items": [
+                100209, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "effect_friend": {
+            "__tuple__": true, 
+            "items": [
+                100209, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 201331351, 
+        "kv": {}, 
+        "max_duration": 60, 
+        "name": -73701096, 
+        "projectile_fx": 100000, 
+        "sfx_loop": true, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "uid": "201331351"
+    }
+}
