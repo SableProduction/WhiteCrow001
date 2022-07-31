@@ -246,7 +246,7 @@
                                         }
                                     ], 
                                     "condition_type": "NUMBER_RANGE", 
-                                    "element_id": 9283010570041, 
+                                    "element_id": 9283010570005, 
                                     "enable": true
                                 }
                             ], 
@@ -276,7 +276,7 @@
                                             "sub_type": 1
                                         }
                                     ], 
-                                    "element_id": 9283010570042, 
+                                    "element_id": 9283010570006, 
                                     "enable": true
                                 }
                             ], 

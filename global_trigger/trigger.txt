@@ -2,50 +2,148 @@
     "group": [], 
     "key": -1, 
     "key_order": {
-        "VxIKgBBYEe2QmXBNe7M-CF": 1
+        "VxIKgBBYEe2QmXBNe7M-CF": 0
     }, 
     "name": "trigger", 
     "sub_trigger": {
-        "0": {
-            "__tuple__": true, 
-            "items": [
-                1487040513, 
-                "base_trigger"
-            ]
-        }, 
-        "2": {
+        "1": {
             "__tuple__": true, 
             "items": [
                 1025617923, 
                 "get_currentIndex"
             ]
         }, 
+        "2": {
+            "__tuple__": true, 
+            "items": [
+                1194258444, 
+                "RollerBladeGirl"
+            ]
+        }, 
         "3": {
             "__tuple__": true, 
             "items": [
-                328282121, 
-                "Right Click"
+                1271103501, 
+                "RollerUpdateMoveDir"
             ]
         }, 
         "4": {
             "__tuple__": true, 
             "items": [
-                1710211082, 
-                "Left Pressed"
+                549904398, 
+                "RollerUpdateMoveDir_2"
             ]
         }, 
         "5": {
             "__tuple__": true, 
             "items": [
-                1834029067, 
-                "Left Release"
+                1019666447, 
+                "RollerUpdateMoveDir_3"
             ]
         }, 
         "6": {
             "__tuple__": true, 
             "items": [
-                818483212, 
-                "FollowTest"
+                1455878160, 
+                "RollerUpdateMoveDir_4"
+            ]
+        }, 
+        "7": {
+            "__tuple__": true, 
+            "items": [
+                1975971857, 
+                "RollerUpdateMoveDir_5"
+            ]
+        }, 
+        "8": {
+            "__tuple__": true, 
+            "items": [
+                1187446802, 
+                "RollerUpdateMoveDir_6"
+            ]
+        }, 
+        "9": {
+            "__tuple__": true, 
+            "items": [
+                1304887315, 
+                "RollerUpdateMoveDir_7"
+            ]
+        }, 
+        "10": {
+            "__tuple__": true, 
+            "items": [
+                700907540, 
+                "RollerUpdateMoveDir_8"
+            ]
+        }, 
+        "11": {
+            "__tuple__": true, 
+            "items": [
+                1908871189, 
+                "RollerUpdateMoveDir_9"
+            ]
+        }, 
+        "12": {
+            "__tuple__": true, 
+            "items": [
+                1875316758, 
+                "RollerUpdateMoveDir_10"
+            ]
+        }, 
+        "13": {
+            "__tuple__": true, 
+            "items": [
+                600248343, 
+                "RollerUpdateMoveDir_11"
+            ]
+        }, 
+        "14": {
+            "__tuple__": true, 
+            "items": [
+                2009534488, 
+                "RollerUpdateMoveDir_12"
+            ]
+        }, 
+        "15": {
+            "__tuple__": true, 
+            "items": [
+                1422336025, 
+                "RollerUpdateMoveDir_13"
+            ]
+        }, 
+        "16": {
+            "__tuple__": true, 
+            "items": [
+                986132506, 
+                "RollerUpdateMoveDir_14"
+            ]
+        }, 
+        "17": {
+            "__tuple__": true, 
+            "items": [
+                1002913819, 
+                "RollerUpdateMoveDir_15"
+            ]
+        }, 
+        "18": {
+            "__tuple__": true, 
+            "items": [
+                600264732, 
+                "RollerUpdateMoveDir_16"
+            ]
+        }, 
+        "19": {
+            "__tuple__": true, 
+            "items": [
+                1170690077, 
+                "RollerUpdateMoveDir_17"
+            ]
+        }, 
+        "20": {
+            "__tuple__": true, 
+            "items": [
+                2094047263, 
+                "RollerUpdateMoveDir_18"
             ]
         }
     }

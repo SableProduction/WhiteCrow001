@@ -3,11 +3,15 @@
     "eatriggers": [], 
     "eavariable_group": [], 
     "variable_remark": {
+        "RollerDest": "", 
+        "RollerMoving": "", 
         "emptyUnitLoc": "", 
         "initPoint": "", 
         "initPointLoc": "", 
         "leftPressed": "", 
+        "rollerDes": "", 
         "rollerIndex": "", 
+        "rollerTargets": "", 
         "rollerbladeStart": "", 
         "rollerbladepathA": ""
     }

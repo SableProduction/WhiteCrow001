@@ -22,6 +22,40 @@
             "variable_length_dict": {}, 
             "variable_type_dict": {}
         }, 
+        "1194258444": {
+            "variable_dict": {
+                "INTEGER": {}, 
+                "POINT": {}
+            }, 
+            "variable_length_dict": {}, 
+            "variable_type_dict": {}
+        }, 
+        "1271103501": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0
+                }, 
+                "POINT": {
+                    "destination": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {}
+            }, 
+            "variable_length_dict": {
+                "destination": 0, 
+                "index": 0
+            }, 
+            "variable_type_dict": {
+                "destination": false, 
+                "index": false
+            }
+        }, 
         "1394298882": {
             "variable_dict": {
                 "ANGLE": {}, 
@@ -77,6 +111,7 @@
     "variable_comments": {}, 
     "variable_dict": {
         "BOOLEAN": {
+            "RollerMoving": false, 
             "initPoint": false, 
             "leftPressed": false, 
             "rollerbladeStart": false
@@ -85,6 +120,14 @@
             "rollerIndex": 0
         }, 
         "POINT": {
+            "RollerDest": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }, 
             "initPointLoc": {
                 "__tuple__": true, 
                 "items": [
@@ -102,6 +145,10 @@
                 ]
             }
         }, 
+        "ROUND_AREA": {
+            "rollerDes": 0, 
+            "rollerTargets": 0
+        }, 
         "UNIT_ENTITY": {
             "emptyUnitLoc": 0
         }, 
@@ -113,13 +160,6 @@
             "items": [
                 "rollerbladepathA", 
                 "(rollerbladepathA)"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "rollerIndex", 
-                "(rollerIndex)"
             ]
         }, 
         {
@@ -156,32 +196,79 @@
                 "emptyUnitLoc", 
                 "(emptyUnitLoc)"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "RollerDest", 
+                "(RollerDest)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "RollerMoving", 
+                "(RollerMoving)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "rollerIndex", 
+                "(rollerIndex)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "rollerTargets", 
+                "(rollerTargets)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "rollerDes", 
+                "(rollerDes)"
+            ]
         }
     ], 
     "variable_length_dict": {
+        "RollerDest": 0, 
+        "RollerMoving": 0, 
         "emptyUnitLoc": 0, 
         "initPoint": 0, 
         "initPointLoc": 0, 
         "leftPressed": 0, 
+        "rollerDes": 0, 
         "rollerIndex": 0, 
+        "rollerTargets": 10, 
         "rollerbladeStart": 0, 
         "rollerbladepathA": 10
     }, 
     "variable_remark": {
+        "RollerDest": "", 
+        "RollerMoving": "", 
         "emptyUnitLoc": "", 
         "initPoint": "", 
         "initPointLoc": "", 
         "leftPressed": "", 
+        "rollerDes": "", 
         "rollerIndex": "", 
+        "rollerTargets": "", 
         "rollerbladeStart": "", 
         "rollerbladepathA": ""
     }, 
     "variable_type_dict": {
+        "RollerDest": false, 
+        "RollerMoving": false, 
         "emptyUnitLoc": false, 
         "initPoint": false, 
         "initPointLoc": false, 
         "leftPressed": false, 
+        "rollerDes": false, 
         "rollerIndex": false, 
+        "rollerTargets": true, 
         "rollerbladeStart": false, 
         "rollerbladepathA": true
     }
